@@ -4,7 +4,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
   // Define the content mapping based on routes
   const contentMapping = {
-    '/': 'home.html',
+    '/Attd-Frontend': 'home.html',
   };
 
   // Get the corresponding content filename based on the current path
